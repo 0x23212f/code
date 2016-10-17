@@ -2,7 +2,7 @@
 
 ## Intro
 
-[Gorillavid.in](gorillavid.in) is a famous video distribution platform that hosts content for websites such as [putlocker.is](putlocker.is) and [the-watch-series.to](the-watch-series.to).
+[Gorillavid.in](http://gorillavid.in) is a famous video distribution platform that hosts content for websites such as [putlocker.is](http://putlocker.is) and [the-watch-series.to](http://the-watch-series.to).
 
 Being such an awesome website that provides such an awesome service, I accept they need to support themselves and make money. But I'm not very fond of ads. I especially hate the new tab redirection.
 
@@ -17,7 +17,7 @@ The extension closes the Gorillavid extra ad tab every time it opens. Making the
 Built on: _Google Chrome 51_
 Language: _Javascript_
 
-Learned about Chrome Extension development. Can now proudly claim to have written a Chrome Extension. Used **localStorage**, _Event Listeners(onUpdate)_**, and *Chrome Extension icon badge creation*!
+Learned about Chrome Extension development. Can now proudly claim to have written a Chrome Extension. Used **localStorage**, **_Event Listeners(onUpdate)_**, and *Chrome Extension icon badge creation*!
 
 ## P.S.
 
