@@ -17,7 +17,7 @@ The extension closes the Gorillavid extra ad tab every time it opens. Making the
 Built on: _Google Chrome 51_
 Language: _Javascript_
 
-Learned about Chrome Extension development. Can now proudly claim to have written a Chrome Extension. Used **localStorage**, _Event Listeners(onUpdate)_**, and *Chrome Extension icon badge creation*!
+Learned about Chrome Extension development. Can now proudly claim to have written a Chrome Extension. Used **localStorage**, **_Event Listeners(onUpdate)_**, and **Chrome Extension icon badge creation** !
 
 Have added the `.crx` packed extension file to this repo so you guys can install it directly if you need to!
 
