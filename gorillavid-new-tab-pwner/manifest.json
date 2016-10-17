@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Gorrilavid New-Tab Pwner",
+  "description": "This extension kills the new-tabs that Gorrilavid keeps generating to serve us ads.",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "activeTab",
+    "*://*.gorillavid.in/favicon.ico",
+    "cookies"
+  ],
+  "background" : {
+    "scripts" : ["gorillapwn.js"]
+  }
+}
